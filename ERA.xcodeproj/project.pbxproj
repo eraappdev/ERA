@@ -15,6 +15,8 @@
 		94B26AA920E2D62A005DB379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94B26AA720E2D62A005DB379 /* LaunchScreen.storyboard */; };
 		94B26AB420E2D62B005DB379 /* ERATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B26AB320E2D62B005DB379 /* ERATests.swift */; };
 		94B26ABF20E2D62B005DB379 /* ERAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B26ABE20E2D62B005DB379 /* ERAUITests.swift */; };
+		E095F5CD20E2EAB5000A809E /* CircleProfileGray.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5CC20E2EAB5000A809E /* CircleProfileGray.png */; };
+		E095F5CE20E2EAB5000A809E /* CircleProfileGray.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5CC20E2EAB5000A809E /* CircleProfileGray.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		94B26ABA20E2D62B005DB379 /* ERAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ERAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94B26ABE20E2D62B005DB379 /* ERAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ERAUITests.swift; sourceTree = "<group>"; };
 		94B26AC020E2D62B005DB379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E095F5CC20E2EAB5000A809E /* CircleProfileGray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CircleProfileGray.png; path = ../../../../Downloads/CircleProfileGray.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,7 @@
 				94B26A9B20E2D62A005DB379 /* AppDelegate.swift */,
 				94B26A9D20E2D62A005DB379 /* ViewController.swift */,
 				94B26A9F20E2D62A005DB379 /* Main.storyboard */,
+				E095F5CC20E2EAB5000A809E /* CircleProfileGray.png */,
 				94B26AA520E2D62A005DB379 /* Assets.xcassets */,
 				94B26AA720E2D62A005DB379 /* LaunchScreen.storyboard */,
 				94B26AAA20E2D62A005DB379 /* Info.plist */,
@@ -237,6 +241,7 @@
 			files = (
 				94B26AA920E2D62A005DB379 /* LaunchScreen.storyboard in Resources */,
 				94B26AA620E2D62A005DB379 /* Assets.xcassets in Resources */,
+				E095F5CD20E2EAB5000A809E /* CircleProfileGray.png in Resources */,
 				94B26AA120E2D62A005DB379 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -252,6 +257,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E095F5CE20E2EAB5000A809E /* CircleProfileGray.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
