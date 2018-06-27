@@ -21,6 +21,8 @@
 		E095F5D420E2FEB4000A809E /* REDCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5D220E2FEB4000A809E /* REDCircle.png */; };
 		E095F5D620E322B6000A809E /* back-arrowBLACK.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5D520E322B6000A809E /* back-arrowBLACK.png */; };
 		E095F5D720E322B6000A809E /* back-arrowBLACK.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5D520E322B6000A809E /* back-arrowBLACK.png */; };
+		E095F5DB20E360F8000A809E /* SolidRedCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5DA20E360F8000A809E /* SolidRedCircle.png */; };
+		E095F5DC20E360F8000A809E /* SolidRedCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = E095F5DA20E360F8000A809E /* SolidRedCircle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +60,7 @@
 		E095F5CC20E2EAB5000A809E /* CircleProfileGray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CircleProfileGray.png; path = ../../../../Downloads/CircleProfileGray.png; sourceTree = "<group>"; };
 		E095F5D220E2FEB4000A809E /* REDCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = REDCircle.png; path = ../../../../Downloads/REDCircle.png; sourceTree = "<group>"; };
 		E095F5D520E322B6000A809E /* back-arrowBLACK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back-arrowBLACK.png"; path = "../../../../Downloads/back-arrowBLACK.png"; sourceTree = "<group>"; };
+		E095F5DA20E360F8000A809E /* SolidRedCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SolidRedCircle.png; path = ../../../../Downloads/SolidRedCircle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,7 @@
 				94B26A9B20E2D62A005DB379 /* AppDelegate.swift */,
 				94B26A9D20E2D62A005DB379 /* ViewController.swift */,
 				94B26A9F20E2D62A005DB379 /* Main.storyboard */,
+				E095F5DA20E360F8000A809E /* SolidRedCircle.png */,
 				E095F5D520E322B6000A809E /* back-arrowBLACK.png */,
 				E095F5D220E2FEB4000A809E /* REDCircle.png */,
 				E095F5CC20E2EAB5000A809E /* CircleProfileGray.png */,
@@ -251,6 +255,7 @@
 				94B26AA920E2D62A005DB379 /* LaunchScreen.storyboard in Resources */,
 				94B26AA620E2D62A005DB379 /* Assets.xcassets in Resources */,
 				E095F5CD20E2EAB5000A809E /* CircleProfileGray.png in Resources */,
+				E095F5DB20E360F8000A809E /* SolidRedCircle.png in Resources */,
 				E095F5D320E2FEB4000A809E /* REDCircle.png in Resources */,
 				94B26AA120E2D62A005DB379 /* Main.storyboard in Resources */,
 			);
@@ -268,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E095F5D720E322B6000A809E /* back-arrowBLACK.png in Resources */,
+				E095F5DC20E360F8000A809E /* SolidRedCircle.png in Resources */,
 				E095F5CE20E2EAB5000A809E /* CircleProfileGray.png in Resources */,
 				E095F5D420E2FEB4000A809E /* REDCircle.png in Resources */,
 			);
